@@ -1,6 +1,6 @@
-// Dalio, Brian A.
-// dalioba
-// 2018-11-14
+// Mainali, Ashish
+// axm3019
+// 2020-03-14
 
 // as -o u.o useful_libc.s
 // gcc -static -o test u.o useful_test.c
